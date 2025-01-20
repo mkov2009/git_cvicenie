@@ -1,2 +1,4 @@
 Kapitola1:
 	Nová kapitola
+Kapitola2:
+	Kapitalo2........
